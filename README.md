@@ -21,6 +21,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
+## 🖇️ Acesse aqui
+
+Você pode acessar este projeto e testar todas as funcionalidades [aqui](https://rocketpay-kappa-ten.vercel.app/).
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -38,6 +42,8 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+ 
 
 ## :memo: Licença
 
